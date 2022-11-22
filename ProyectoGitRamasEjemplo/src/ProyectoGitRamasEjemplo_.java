@@ -7,5 +7,10 @@ public class ProyectoGitRamasEjemplo_ {
 		System.out.println("Hola mundo");
 		
 		
+		public static void imprimeSaludo(){
+		System.out.println("Hei");
+		
+		}
+		
 	}
 }
