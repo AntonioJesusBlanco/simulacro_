@@ -8,5 +8,10 @@ public class ProyectoGitRamasEjemplo_ {
 		System.out.println("Hello world");
 		
 		
+		public static void imprimeSaludo(){
+		System.out.println("Hei");
+		
+		}
+		
 	}
 }
